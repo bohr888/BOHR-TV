@@ -111,11 +111,6 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    yutu: {
-        api: 'https://apiyutu.com/api.php/provide/vod/?ac=list',
-        name: '玉兔资源',
-        adult: true
-    },
     
 };
 // 定义合并方法
