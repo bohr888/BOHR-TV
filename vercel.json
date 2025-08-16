@@ -21,7 +21,9 @@
       "destination": "/:path*"
     }
   ]
-  "headers": [  
+}
+{
+   "headers": [  
     {  
       "source": "/_next/static/(.*)",  
       "headers": [  
