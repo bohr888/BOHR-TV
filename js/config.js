@@ -21,14 +21,7 @@ const SITE_CONFIG = {
 };
 
 // API站点配置
-const API_SITES = {
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: false
-    }
-    //ARCHIVE https://telegra.ph/APIs-08-12
-};
+const API_SITES = https://telegra.ph/APIs-08-12;
 
 // 定义合并方法
 function extendAPISites(newSites) {
